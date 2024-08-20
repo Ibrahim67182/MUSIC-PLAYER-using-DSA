@@ -1,0 +1,4 @@
+﻿  Music_player_DSA.cpp
+C:\Users\Shamim\Desktop\Music_player_DSA\Music_player_DSA.cpp(791,13): warning C4101: 'k': unreferenced local variable
+C:\Users\Shamim\Desktop\Music_player_DSA\Music_player_DSA.cpp(1064,14): warning C4101: 'p': unreferenced local variable
+  Music_player_DSA.vcxproj -> C:\Users\Shamim\Desktop\Music_player_DSA\Debug\Music_player_DSA.exe
